@@ -1,0 +1,6 @@
+user_suggestions_venv/
+__pycache__/
+
+*.env
+*.env.*
+env.*
